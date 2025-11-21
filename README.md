@@ -30,8 +30,8 @@ Use case - Perfect for journalists, researchers, WhatsApp fact-checkers, or anyo
 ## Installation & Setup
 
 # 1. Clone or download this repository
-- git clone https://github.com/Nikhil-MLOPs/pib-fact-checker.git
-- cd pib-fact-checker
+- git clone https://github.com/Nikhil-MLOPs/LLM-Powered-Fact-Checker.git
+- cd LLM-Powered-Fact-Checker
 
 # 2. Install dependencies
 pip install -r requirements.txt
