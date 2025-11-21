@@ -43,3 +43,19 @@ Add your PIB data in csv format with one column name being statement in the same
 python main.py
 
 Gradio will open in your browser
+
+# 5. Sample input/output
+- Q- India was the first country to land on Sun?
+- A- False
+     
+     The detailed report with evidence is also given
+
+- Q- India ranked 40th in the Global Innovation Index 2023, improving from it's 81st position in 2015
+- A- True
+     
+     The detailed report with evidence is also given
+
+- Q- PM-KISAN scheme has benefitted 1 farmer.
+- A- Unverifiable
+     
+     The detailed report with eveidence is also given
